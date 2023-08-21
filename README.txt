@@ -1,0 +1,1 @@
+Pour Acceder au service d ADMIN , veuillez vous connecter avec admin@gmail.com et le mot de passe suivant : 123456
