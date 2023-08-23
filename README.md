@@ -31,6 +31,6 @@ To run this project locally, you'll need to have Java and MariaDB installed. Clo
 ```properties
 # src/main/resources/application.properties
 
-spring.datasource.url=jdbc:mysql://localhost:3306/biocharm
+spring.datasource.url=jdbc:mysql://localhost:3306/biowebsite
 spring.datasource.username=root
 spring.datasource.password=
