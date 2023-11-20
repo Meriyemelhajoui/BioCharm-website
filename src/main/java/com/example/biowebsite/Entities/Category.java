@@ -14,12 +14,7 @@ public class Category {
    @Column(name = "category_id")
     private int id;
 
-    public void setId(int id) {
-        this.id = id;
-    }
-    public int getId() {
-        return id;
-    }
+    
 
      private String name;
 
