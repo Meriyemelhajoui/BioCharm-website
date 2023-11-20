@@ -61,7 +61,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 
 
-
+// cette methode est pour dire a spring security d ingorer ces chemins de repertoire ... car il ne s agit pas de URL Valide 
     @Override
     public void configure(WebSecurity web)  {
         web.ignoring().antMatchers("/resources/**", "/static/**","/images/**","/ProductsImages/**","/css/**");
